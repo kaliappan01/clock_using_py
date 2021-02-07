@@ -1,6 +1,7 @@
 # clock_using_py
 >
 a digital clock 
+![clock](https://github.com/kaliappan01/clock_using_py/blob/main/clock.PNG)
 <hr>
 
 ## Table of contents
